@@ -7,7 +7,7 @@ const About = () => {
         {/* Image */}
         <div className="mb-10 md:mb-0 md:w-1/2">
           <img
-            src="https://source.unsplash.com/600x400/?team,workspace"
+            src="https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="About Us"
             className="rounded-lg shadow-md w-full"
           />
